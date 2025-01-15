@@ -4,7 +4,7 @@ Hi, I’m Philipp from near Karlsruhe, Germany. I studied Electrical Engineering
 My favorite programming language is Python, and I enjoy working with it on various projects. In my professional career, I’ve developed several tools using C# and Python, always looking to improve and explore new technologies.
 
 
-## Currently workin on ...
+## Currently working on ...
 - 🔭 I’m currently working on a program that shows you the gas stations in your area with the best prices.
 
 
