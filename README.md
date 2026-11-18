@@ -1,24 +1,20 @@
+# Hi, I'm Philipp 👋
 
-## About me
-Hi, I’m Philipp from near Karlsruhe, Germany. I studied Electrical Engineering and have been passionate about programming since my teenage years, starting with Basic.
-My favorite programming language is Python, and I enjoy working with it on various projects. In my professional career, I’ve developed several tools using C# and Python, always looking to improve and explore new technologies.
+**Electrical engineering graduate · Developer · Python enthusiast**  
+Based near Karlsruhe, Germany 🇩🇪
 
+I started programming as a teenager with BASIC and have been exploring software and technology ever since. Python is my favorite language, and I also have professional experience building tools with Python and C#.
 
-## Currently working on ...
-- 🔭 I’m currently working on a program that shows you the gas stations in your area with the best prices.
+## 🔭 Currently working on
 
+A tool that helps find nearby gas stations with the best fuel prices.
 
-<!--
-**Flip19890/Flip19890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ What I enjoy
 
-Here are some ideas to get you started:
+- Building useful tools with Python
+- Exploring software and new technologies
+- Combining programming with electronics and engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+*Always curious, always learning.*
